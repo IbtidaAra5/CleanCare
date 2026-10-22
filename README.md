@@ -1,5 +1,4 @@
-# CleanCare
-Laundry Service Management System with multi-role dashboards, order tracking, and PDF invoices.
+
 # CleanCare - Laundry Service Management System
 
 CleanCare is a modern multi-role laundry management system that simplifies operations for Admins, Laundry Staff, Delivery Persons, and Customers. It allows seamless order tracking, PDF invoice generation, and customer feedback management.
