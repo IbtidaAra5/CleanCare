@@ -221,15 +221,15 @@ All sample accounts use the password **`password`**.
 
 | Landing | Customer Dashboard |
 |---|---|
-| ![Landing](docs/screenshots/landing.png) | ![Customer](docs/screenshots/customer.png) |
+| ![Landing](screenshots/landing.png) | ![Customer](screenshots/customer.png) |
 
 | Admin Dashboard | Staff Queue |
 |---|---|
-| ![Admin](docs/screenshots/admin.png) | ![Staff](docs/screenshots/staff.png) |
+| ![Admin](screenshots/admin.png) | ![Staff](screenshots/staff.png) |
 
 | Delivery Tasks | Dark Mode |
 |---|---|
-| ![Delivery](docs/screenshots/delivery.png) | ![Dark](docs/screenshots/dark.png) |
+| ![Delivery](screenshots/delivery.png) | ![Dark](screenshots/dark.png) |
 
 ---
 
@@ -250,12 +250,7 @@ Please use prepared statements for all queries and escape all output.
 ## 👩‍💻 Author
 
 **Ibtida Ara**
-Final-year CSE student at United International University (UIU)
-
 - GitHub: [@IbtidaAra5](https://github.com/IbtidaAra5)
-- LinkedIn: [Ibtida Ara](https://www.linkedin.com/in/ibtida-ara-a505983b4)
-- Portfolio: [ibtidaara5.github.io](https://ibtidaara5.github.io/)
-
 ---
 
 ## 📄 License
